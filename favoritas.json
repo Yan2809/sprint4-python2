@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Darlene de Souza Reguera",
+        "clube": "Flamengo W",
+        "ano": "2021",
+        "apelido": "Darzinha",
+        "observacao": "jogadora do flamengo feminino muito boa",
+        "estatisticas": {
+            "posicao": "Attacker",
+            "partidas": 6,
+            "gols": 1,
+            "assistencias": 0
+        },
+        "id": 1
+    }
+]
